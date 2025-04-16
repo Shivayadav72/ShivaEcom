@@ -18,8 +18,8 @@ SECRET_KEY = 'django-insecure-d++w2!amr*9yx1vk-#r^1am-(i-r7p!a-fsw1f%t_u3l$u9x+6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-#ALLOWED_HOSTS = ['ecomweb-production-124e.up.railway.app']
-#CSRF_TRUSTED_ORIGINS=['ecomweb-production-124e.up.railway.app','https://ecomweb-production-124e.up.railway.app']
+ALLOWED_HOSTS = ['shivaecom-production.up.railway.app','https://shivaecom-production.up.railway.app']
+CSRF_TRUSTED_ORIGINS=['shivaecom-production.up.railway.app','https://shivaecom-production.up.railway.app']
 
 
 # Application definition
