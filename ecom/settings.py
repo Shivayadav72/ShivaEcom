@@ -83,7 +83,7 @@ DATABASES = {
         'USER': 'postgres',
         'PASSWORD': os.environ['DB_PASSWORD_YO'],
         'HOST': 'postgres-production-2ceb.up.railway.app',
-        'PORT': '8080',
+        'PORT': '8000',
         
     }
 }
