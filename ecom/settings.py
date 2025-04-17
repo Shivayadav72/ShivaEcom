@@ -18,7 +18,7 @@ SECRET_KEY = 'django-insecure-d++w2!amr*9yx1vk-#r^1am-(i-r7p!a-fsw1f%t_u3l$u9x+6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['shivaecom-production.up.railway.app','https://shivaecom-production.up.railway.app']
+ALLOWED_HOSTS = ['shivaecom-production.up.railway.app','https://shivaecom-production.up.railway.app','127.0.0.1']
 CSRF_TRUSTED_ORIGINS=['https://shivaecom-production.up.railway.app']
 
 
